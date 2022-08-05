@@ -7,4 +7,7 @@ Following https://code.visualstudio.com/docs/python/python-tutorial create virtu
 
 ## Running
 
-Run from within VSCode
+Run from within VSCode, outputs a file in the hardcoded directory where the images are provided.
+
+## Demo
+Of clicking around the output https://www.youtube.com/watch?v=KWx3ygBAnyE
